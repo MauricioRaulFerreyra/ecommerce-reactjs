@@ -1,0 +1,48 @@
+.container-compra{
+    display:flex;
+    align-items: center;
+    width:100%;
+    border-radius:5px;
+    
+}
+.container-compra button{
+    width:10%;
+    padding:.5rem;
+    border:none;
+    font-size: 1.2rem;
+    font-weight:bold;
+}
+.container-compra label{
+    flex-grow: 1;
+    font-size:1.2rem;
+    font-weight:bold;
+    text-align: center;
+    background-color:rgb(243, 247, 250);
+    padding:.49rem;
+}
+button{
+    cursor: pointer;
+}
+.button-carrito{
+    width:100%;
+    padding:0.5rem;
+     border:none;
+    font-size: 1.2rem;
+    font-weight:bold;
+    margin-top:15px;
+    border-radius:5px;
+    background-color: #808060 ;
+    cursor: pointer;
+}
+.button-carrito-terminar{
+    width:100%;
+    padding:0.5rem;
+     border:none;
+    font-size: 1.2rem;
+    font-weight:bold;
+    margin-top:15px;
+    border-radius:5px;
+    background-color: #434358 ;
+    color:#FFF;
+    cursor: pointer;
+}

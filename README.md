@@ -27,6 +27,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Deployment
 
-Link : https://ecommerce-reactjs-dgisftua5-mauricioraulferreyra.vercel.app/
+Link : https://ecommerce-mauricioraulferreyra.vercel.app/
 
 
